@@ -1,4 +1,3 @@
 # inteligencia-artificial
 
-Davi Emannoel Lopes de Souza.
-Ciência da computação
+ Inteligencia artifical / Ciência da computação / Davi Emannoel Lopes de Souza/ descrição
